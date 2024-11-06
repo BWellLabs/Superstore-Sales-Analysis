@@ -1,6 +1,6 @@
 Superstore Retail Analytics
 
-This project analyzes a retail superstore dataset to identify insights in product sales, shipping modes, and regional trends. Using Python in Google Colab, it leverages Pandas, NumPy, Matplotlib, and Seaborn for data processing and visualization.
+This project analyzes a retail superstore dataset to identify insights in product sales, shipping modes, and regional trends. Using Python it leverages Pandas, NumPy, Matplotlib, and Seaborn for data processing and visualization.
 
 Overview
 
